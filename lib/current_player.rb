@@ -14,7 +14,7 @@ end
   #     add +1 to counter
   #   else do nothing
   # end
-end
+
 
 def current_player(board)
 end
