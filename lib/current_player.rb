@@ -7,7 +7,7 @@ def turn_count(board)
   end
 end
 
-  
+
   # counter at 0
   # for element in board
   #   if element == "X" or "Y"
